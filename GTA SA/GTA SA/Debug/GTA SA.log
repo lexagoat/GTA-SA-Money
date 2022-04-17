@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\GTA SA\GTA SA\GTA SA\main.cpp(95): warning C4715: 'readFromMem': tüm denetim yolları değer döndürmez
+  GTA SA.vcxproj -> E:\GTA SA\GTA SA\Debug\GTA SA.exe
