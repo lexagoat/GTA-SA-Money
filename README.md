@@ -1,1 +1,1 @@
-# GTA-SA-Money
+# Offset : 0xB7CE50
